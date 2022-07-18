@@ -1,8 +1,8 @@
 ## Hi i'm Sebastián Amaya, Full stack developer!
 <div align="center">
   <a href="https://github.com/sebasam">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sebasam&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasam&layout=compact&langs_count=7&theme=aura"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sebasam&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasam&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
