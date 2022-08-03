@@ -1,4 +1,4 @@
-## Hi i'm Sebastián Amaya, Full stack developer! Nowdays Im coding in languages like Javascript, Java, NodeJs and SpringBoot
+## Hi i'm Sebastián Amaya, Full stack developer! Im coding in languages like Javascript and Java, frameworks like NodeJs and SpringBoot.
 <div align="center">
   <a href="https://github.com/sebasam">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sebasam&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
