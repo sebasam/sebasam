@@ -1,9 +1,11 @@
 ## Hi i'm Sebastián Amaya, Full stack developer! Im coding in languages like Javascript and Java, frameworks like NodeJs and SpringBoot.
 <div align="center">
   <a href="https://github.com/sebasam">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebasam&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasam&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sebasam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sebasam&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue-dark">    <img  alt="sebasam's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sebasam?cardType=github&theme=vue-dark" />  </a>
 </div>
+  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
