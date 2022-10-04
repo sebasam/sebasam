@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/sebasam">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sebasam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sebasam&theme=monokai-metallian&hide_border=true"/>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue-dark">    <img  alt="sebasam's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sebasam?cardType=github&theme=vue-dark" />  </a>
+
 </div>
   
   
