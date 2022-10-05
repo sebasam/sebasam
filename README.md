@@ -1,7 +1,7 @@
 ## Hi i'm Sebastián Amaya, Full stack developer! Im coding in languages like Javascript and Java, frameworks like NodeJs and SpringBoot.
 <div align="center">
   <a href="https://github.com/sebasam">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sebasam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sebasam&theme=monokai-metallian&hide_border=true"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sebasam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sebasam&theme=vue-dark&hide_border=true"/>
 </div>
   <div align="center">
   <a href="https://github.com/sebasam">
