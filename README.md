@@ -1,4 +1,4 @@
-## Hi i'm Sebastián Amaya, Full stack developer! Im coding in languages like Javascript and Java, frameworks like Python, C#, Javascript and Framworks like NodeJs, ASP .NET Core, Odoo, Django, React, Angular, Vue, NextJs, ReactNative.
+## Hi i'm Sebastián Amaya, Full stack developer! Im coding in languages like Python, C#, Javascript and Framworks like NodeJs, ASP .NET Core, Odoo, Django, React, Angular, Vue, NextJs, ReactNative.
 
 Relational Databases: PostgreSQL, SQLServer, OracleSQL
 No Relational Databases: MongoDB.
