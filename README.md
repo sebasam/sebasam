@@ -1,14 +1,5 @@
 ## FullStack Developer Mid Level. / Frontend Developer / Backend Developer / technologist in software analysis and development / Software Developer
 
-LinkTIC S.A.S
-
-Servicio Nacional de Aprendizaje (SENA)
-Bogotá, Distrito Capital, C.
-
-Relational Databases: PostgreSQL, SQLServer, OracleSQL
-No Relational Databases: MongoDB.
-
-Cloud: Azure.
 <div align="center">
   <a href="https://github.com/sebasam">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sebasam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sebasam&theme=vue-dark&hide_border=true"/>
