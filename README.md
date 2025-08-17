@@ -1,4 +1,9 @@
-## Hi i'm Sebastián Amaya, Full stack developer! Im coding in languages like Python, C#, Javascript and Framworks like NodeJs, ASP .NET Core, Odoo, Django, React, Angular, Vue, NextJs, ReactNative.
+## FullStack Developer Mid Level. / Frontend Developer / Backend Developer / technologist in software analysis and development / Software Developer
+
+LinkTIC S.A.S
+
+Servicio Nacional de Aprendizaje (SENA)
+Bogotá, Distrito Capital, C.
 
 Relational Databases: PostgreSQL, SQLServer, OracleSQL
 No Relational Databases: MongoDB.
